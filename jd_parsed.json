@@ -1,0 +1,75 @@
+{
+  "required_skills": [
+    "embeddings",
+    "sentence-transformers",
+    "vector database",
+    "faiss",
+    "pinecone",
+    "weaviate",
+    "qdrant",
+    "elasticsearch",
+    "opensearch",
+    "python",
+    "retrieval",
+    "ranking",
+    "ndcg",
+    "mrr",
+    "a/b testing",
+    "hybrid search",
+    "information retrieval"
+  ],
+  "nice_to_have_skills": [
+    "lora",
+    "qlora",
+    "peft",
+    "fine-tuning",
+    "xgboost",
+    "learning to rank",
+    "hr-tech",
+    "marketplace",
+    "distributed systems",
+    "inference optimization",
+    "open source"
+  ],
+  "disqualifier_keywords": [
+    "computer vision",
+    "speech recognition",
+    "robotics",
+    "tcs",
+    "infosys",
+    "wipro",
+    "accenture",
+    "cognizant",
+    "capgemini",
+    "research scientist",
+    "phd researcher"
+  ],
+  "ideal_experience_years_min": 5,
+  "ideal_experience_years_max": 9,
+  "preferred_locations": [
+    "pune",
+    "noida",
+    "delhi",
+    "ncr",
+    "hyderabad",
+    "mumbai",
+    "bangalore"
+  ],
+  "role_type": "applied_ml_engineer",
+  "key_signals": [
+    "embedding retrieval",
+    "vector search",
+    "ranking systems",
+    "python",
+    "production ml",
+    "search",
+    "recommendation"
+  ],
+  "anti_signals": [
+    "pure research",
+    "consulting only",
+    "computer vision only",
+    "langchain wrapper only",
+    "no production"
+  ]
+}
